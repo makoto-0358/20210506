@@ -457,7 +457,7 @@ body {
 }
 .contact-botton::before {
   content: "";
-  background: url(img/blog__second.jpg);
+  background: url(img/mailicon.svg);
   position: absolute;
   top: 50%;
   left: 30px;
